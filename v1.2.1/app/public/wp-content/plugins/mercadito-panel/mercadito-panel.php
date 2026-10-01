@@ -4,6 +4,8 @@ Plugin Name: Mercadito Panel Rápido
 Description: Panel «Mi tienda» para la comunidad, en el escritorio de WordPress y en «Mi cuenta» del sitio: pedidos, productos, clientes, código QR, personalización de la tienda, WhatsApp y redes sociales. Incluye números de pedido consecutivos, compra con 7 datos y envío del comprobante de pago por WhatsApp.
 Version: 1.7.0
 Author: Grupo 3 · Proyecto de Vinculación UIDE
+License: MIT
+License URI: https://opensource.org/licenses/MIT
 Requires at least: 6.5
 Requires PHP: 7.4
 Requires Plugins: woocommerce
